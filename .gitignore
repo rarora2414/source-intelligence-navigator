@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+/PROJECT_BOOK.md
+/PROJECT.md
+/EXPERT_PACK.md
+/APPLICATION_PLAN.md
+/projects/
+/applications/
